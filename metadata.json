@@ -1,0 +1,6 @@
+{
+  "name": "DukaanDraft",
+  "description": "Ready-to-publish marketing copy for small Indian online sellers, powered by Google's open-weight Gemma model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
